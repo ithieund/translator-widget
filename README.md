@@ -19,3 +19,8 @@ Rất mong nhận được sự hỗ trợ từ cộng đồng để sản phẩ
 ![Translator](https://github.com/ithieund/translator-widget/raw/main/Screenshots/02.%20Translator.png)
 
 ![Dictionary](https://github.com/ithieund/translator-widget/raw/main/Screenshots/03.%20Dictionary.png)
+
+------------------------------------------------
+# Feedback
+- Bug report: When you find a bug, please create an issue with label [bug] to report the bug
+- Feature request: When you have some ideas to improve this product, please create an issue with label [feature request] to address your idea
