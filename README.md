@@ -14,6 +14,8 @@ Rất mong nhận được sự hỗ trợ từ cộng đồng để sản phẩ
 
 ------------------------------------------------
 # Usage
+Download: https://github.com/ithieund/translator-widget/tags
+
 ![Widget Icon](https://github.com/ithieund/translator-widget/raw/main/Screenshots/01.%20Widget%20Icon.png)
 
 ![Translator](https://github.com/ithieund/translator-widget/raw/main/Screenshots/02.%20Translator.png)
